@@ -9,6 +9,8 @@
   "author": "Nikolai Ilushko",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^17.5.2"
+    "hapi": "^17.5.2",
+    "hapi-pino": "^4.0.4",
+    "inert": "^5.1.0"
   }
 }
